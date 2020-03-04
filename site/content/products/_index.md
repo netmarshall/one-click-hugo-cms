@@ -1,7 +1,6 @@
 ---
 title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+image: img/mamma-mia-36-.jpg
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -97,6 +96,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '?'
+type: products
 ---
-
-
