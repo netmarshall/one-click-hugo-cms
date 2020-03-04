@@ -1,6 +1,6 @@
 ---
-title: Great coffee with a conscience
-subtitle: Support sustainable farming while enjoying a cup
+title: And All That Jazz...
+subtitle: 'If you can''t be famous, be infamous!'
 image: img/81893087_811261119390370_1543728061807536696_n-2-.jpg
 blurb:
   heading: Why Kaldi?
